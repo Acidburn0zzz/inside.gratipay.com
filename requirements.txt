@@ -7,7 +7,7 @@ dependency_injection==1.1.0
 algorithm==1.0.0
 
 MarkupSafe==0.18
-Jinja2==2.7.1
+Jinja2==2.10.1
 aspen-jinja2==0.3
 
 simplejson==2.3.2
